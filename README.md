@@ -1,4 +1,4 @@
-# Ejercicios y exámenes resueltos de la asignatura Estructuras de datos (ED/EDA2) de la UCM
+# Ejercicios y exámenes resueltos de la asignatura Estructuras de Datos (ED/EDA2) de la UCM
 
  * Las librerías del profesorado están protegidas por copyright y no se incluye ninguna.
  
