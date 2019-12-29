@@ -1,0 +1,19 @@
+9
+a 3 b 4 c 5 f 6
+a 3 c 2 d 7 e 9
+abc 123 xyz 987
+xyz 987 abc 123
+
+a 1 b 2
+a 1 b 2 c 3 d 4
+e 1 f 2 g 3 h 4
+d 1 c 2 b 3 a 4
+h 1 g 2 f 3 e 4
+d 1 c 2 b 3 a 4
+a 4 b 3 c 2 d 1
+
+
+d 1 c 2 b 3 a 4
+
+d 1 c 2 b 3 a 4
+a 4 b 3 c 2 d 1

@@ -1,0 +1,69 @@
+alta Luis PACO
+alta Marta PACO
+es_alumno Luis PACO
+es_alumno Marta RAMON
+examen PACO 0
+actualizar Marta 10
+examen PACO 10
+examen JUAN 10
+alta Marta JUAN
+puntuacion Marta
+actualizar Marta 10
+examen JUAN 20
+actualizar Miguel 5
+aprobar Marta
+examen JUAN 20
+FIN
+puntuacion Alejandro
+alta Alejandro ISABEL
+actualizar Alejandro 20
+puntuacion Alejandro
+aprobar Alejandro
+puntuacion Alejandro
+FIN
+alta Alvarito PACO
+alta Veronica PACO
+alta Luisito PACO
+alta Diego PACO
+puntuacion Alvarito
+puntuacion Veronica
+puntuacion Luisito
+puntuacion Diego
+actualizar Alvarito 10
+actualizar Veronica 10
+actualizar Luisito 10
+actualizar Diego 10
+puntuacion Alvarito
+puntuacion Veronica
+puntuacion Luisito
+puntuacion Diego
+examen PACO 8
+es_alumno Alvarito PACO
+es_alumno Veronica PACO
+es_alumno Luisito PACO
+es_alumno Diego PACO
+alta Alvarito JACOBO
+alta Veronica JACOBO
+alta Luisito JACOBO
+alta Diego JACOBO
+es_alumno Alvarito PACO
+es_alumno Veronica PACO
+es_alumno Luisito PACO
+es_alumno Diego PACO
+es_alumno Alvarito JACOBO
+es_alumno Veronica JACOBO
+es_alumno Luisito JACOBO
+es_alumno Diego JACOBO
+puntuacion Alvarito
+puntuacion Veronica
+puntuacion Luisito
+puntuacion Diego
+examen PACO 0
+examen JACOBO 0
+alta Alvarito JACOBO
+alta Veronica JACOBO
+es_alumno Alvarito JACOBO
+es_alumno Veronica JACOBO
+es_alumno Luisito JACOBO
+es_alumno Diego JACOBO
+FIN

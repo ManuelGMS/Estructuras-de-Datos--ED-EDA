@@ -1,0 +1,42 @@
+5
+LosIntrepidos PequalsNP 8 TLE
+EquipoA ElSolitario 30 AC
+JavaForever ElSolitario 30 RTE
+LosIntrepidos PequalsNP 100 AC
+LosIntrepidos Sumar2y2 101 AC
+Lentorros Sumar2y2 200 AC
+LosIntrepidos ElSolitario 210 WA
+B_team Horarios 220 WA
+FIN
+FIN
+Aventureros Investigadores 12 WA
+UnoParaTodosTodosParaUno Investigadores 12 WA
+Desafortunados Investigadores 12 WA
+LosTresMosqueteros Investigadores 12 WA
+FIN
+Aventureros Investigadores 12 WA
+UnoParaTodosTodosParaUno Investigadores 12 AC
+Desafortunados Investigadores 12 WA
+LosTresMosqueteros Investigadores 12 AC
+FIN
+UnoParaTodosTodosParaUno Investigadores 2 WA
+LosTresMosqueteros Investigadores 5 WA
+Aventureros Investigadores 12 WA
+LosTresMosqueteros Investigadores 12 WA
+Aventureros Investigadores 13 WA
+LosTresMosqueteros Investigadores 17 WA
+UnoParaTodosTodosParaUno Investigadores 17 AC
+LosTresMosqueteros Investigadores 18 WA
+Aventureros Investigadores 20 WA
+LosTresMosqueteros Investigadores 22 AC
+Aventureros Investigadores 22 AC
+Aventureros Investigadores 23 WA
+UnoParaTodosTodosParaUno Investigadores 23 WA
+LosTresMosqueteros Investigadores 23 WA
+UnoParaTodosTodosParaUno LaPlaya 23 WA
+Aventureros Investigadores 24 WA
+LosTresMosqueteros Investigadores 24 WA
+UnoParaTodosTodosParaUno Investigadores 25 WA
+LosTresMosqueteros LaPlaya 30 WA
+UnoParaTodosTodosParaUno LaPlaya 31 AC
+FIN
